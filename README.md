@@ -103,7 +103,7 @@ Special thanks to:
 
 ## Contact
 For queries, feel free to contact:
-**Rachit Malik**
-- GitHub: [your-username](https://github.com/your-username)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+**Pari Bhattacharya**
+- GitHub: [Parii05](https://github.com/Parii05)
+- Email: [your-email@example.com](mailto:paribhattacharya05@gmail.com)
 
